@@ -7,7 +7,7 @@ Laravel Starter Template for easy Project Setup
 
 ## DevDependencies
 * axios: 0.18
-      * bootstrap": 4.0.0
+      * bootstrap: 4.0.0
        * browser-sync: 2.26.3
         * browser-sync-webpack-plugin: 2.0.1
         * cross-env: 5.1
