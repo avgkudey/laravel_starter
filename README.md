@@ -20,3 +20,11 @@ Laravel Starter Template for easy Project Setup
 * sass-loader: 7.1.0
 * vue: 2.5.17
 * vue-template-compiler: 2.6.7
+
+## Steps
+* git clone https://github.com/avgkudey/laravel_starter.git
+* cd laravel_starter
+* npm install
+* npm run dev
+* php artisan serve
+* npm run watch - in another command prompt
